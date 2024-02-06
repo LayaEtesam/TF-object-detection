@@ -1,0 +1,16 @@
+item { 
+	name:'Bag'
+	id:1
+}
+item { 
+	name:'Camera'
+	id:2
+}
+item { 
+	name:'Knife'
+	id:3
+}
+item { 
+	name:'Weapon'
+	id:4
+}

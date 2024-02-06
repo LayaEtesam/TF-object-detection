@@ -1,0 +1,26 @@
+<annotation>
+	<folder>weapon</folder>
+	<filename>11.jpg</filename>
+	<path>C:\Users\etesam\Desktop\od\Tensorflow\workspace\images\collectedimages\weapon\11.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>318</width>
+		<height>159</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Weapon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>2</ymin>
+			<xmax>304</xmax>
+			<ymax>156</ymax>
+		</bndbox>
+	</object>
+</annotation>
